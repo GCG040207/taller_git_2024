@@ -4,7 +4,8 @@ export const students = [
     "lastname": "Jurado",
     "favorite_subject": "POO",
     "whatever": "Siempre da lo mejor de ti"
-  {
+  },
+    {
     "name": "Kevin A",
     "lastname": "Flores",
     "favorite_subject": "Fundamentos de programacion",
@@ -33,7 +34,7 @@ export const students = [
     "lastname": "Torres",
     "favorite_subject": "ABD",
     "whatever": "Hi"
-  }
+  },
   {
     "name": "Luis",
     "lastname": "Cortes",
@@ -63,5 +64,11 @@ export const students = [
     "lastname": "Rodriguez",
     "favorite_subject": "Programacion web",
     "whatever": "Siempre sonriendole a la vida"
+  },
+  {
+    "name": "Javier",
+    "lastname": "Piña Aguilar",
+    "favorite_subject": "Programacion web",
+    "whatever": "No entre a git"
   },
 ];
